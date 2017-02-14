@@ -1,2 +1,7 @@
 # hello-world
-Es mi primer repo
+
+Hola a todos,
+
+Este es mi primer readme, solo estoy haciendo pruebas.
+
+Saludos.
